@@ -1,0 +1,2 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\unique\unique\obj\Debug\unique.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\unique\unique\obj\Debug\unique.csproj.CoreCompileInputs.cache

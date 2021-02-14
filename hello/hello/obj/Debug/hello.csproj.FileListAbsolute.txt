@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\bin\Debug\hello.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\bin\Debug\hello.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\bin\Debug\hello.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\obj\Debug\hello.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\obj\Debug\hello.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\hello\hello\obj\Debug\hello.pdb
