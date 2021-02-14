@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace unique
+ namespace unique
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            int a, crt = 0;
+            int a, ctr = 0;
             int[] arr1 = new int[100];
             int i, j, k;
             Console.WriteLine("print all unique element of an arry:");
@@ -20,25 +20,26 @@ namespace unique
             for (i = 0; i < a; i++) ;
             arr1[i] = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("The unique elements found in the arrey:");
-            for(i = 0; i < a; i++) ;
+            for (i = 0; i < a; i++) ;
             {
                 ctr = 0;
                 for (j = 0; j < i - 1; j++) ;
                 {
                     if (arr1[i] == arr1[j]) ;
                     {
-                        ctr++;                    }
+                        ctr++;
+                    }
                 }
             }
 
             for (k = i + 1; k < a; k++)
             {
-                
+
                 if (arr1[i] == arr1[k])
                 {
                     ctr++;
                 }
-                
+
                 if (arr1[i] == arr1[i + 1])
                 {
                     i++;
@@ -49,8 +50,9 @@ namespace unique
                 }
 
 
-        }
+            }
             Console.WriteLine();
 
+        }
     }
 }
