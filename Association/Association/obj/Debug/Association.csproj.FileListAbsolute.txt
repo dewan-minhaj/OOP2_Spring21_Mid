@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\bin\Debug\Association.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\bin\Debug\Association.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\bin\Debug\Association.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\obj\Debug\Association.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\obj\Debug\Association.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Association\Association\obj\Debug\Association.pdb
