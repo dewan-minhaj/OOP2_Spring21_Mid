@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\bin\Debug\array 2.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\bin\Debug\array 2.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\bin\Debug\array 2.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\obj\Debug\array 2.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\obj\Debug\array 2.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\obj\Debug\array 2.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\array 2\array 2\obj\Debug\array 2.pdb
