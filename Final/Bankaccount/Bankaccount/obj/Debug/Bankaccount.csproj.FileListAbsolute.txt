@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\obj\Debug\Bankaccount.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\obj\Debug\Bankaccount.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\bin\Debug\Bankaccount.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\bin\Debug\Bankaccount.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\bin\Debug\Bankaccount.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\obj\Debug\Bankaccount.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Bankaccount\Bankaccount\obj\Debug\Bankaccount.pdb
