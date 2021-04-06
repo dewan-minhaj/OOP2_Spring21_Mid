@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\bin\Debug\Inter face3.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\bin\Debug\Inter face3.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\bin\Debug\Inter face3.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\obj\Debug\Inter face3.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\obj\Debug\Inter face3.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\obj\Debug\Inter face3.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\Inter face3\Inter face3\obj\Debug\Inter face3.pdb
