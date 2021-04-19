@@ -1,0 +1,7 @@
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\bin\Debug\test interface.exe.config
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\bin\Debug\test interface.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\bin\Debug\test interface.pdb
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\obj\Debug\test interface.csprojAssemblyReference.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\obj\Debug\test interface.csproj.CoreCompileInputs.cache
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\obj\Debug\test interface.exe
+D:\Education\Spring 20-21\oop2\C#\Lab 1\Final\test interface\test interface\obj\Debug\test interface.pdb
